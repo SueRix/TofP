@@ -1,0 +1,10 @@
+/*.zip
+/asd
+/temp
+/secret.txt
+/private/**
+/backup*
+/*.{tmp,bak}
+/qwe/cat.txt
+/*.py
+/*.dll
