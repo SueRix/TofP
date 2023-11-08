@@ -1,0 +1,36 @@
+a4eebb4 HEAD@{0}: merge develop: Fast-forward
+ba8f64d HEAD@{1}: checkout: moving from develop to master
+a4eebb4 HEAD@{2}: rebase (finish): returning to refs/heads/develop
+a4eebb4 HEAD@{3}: rebase (start): checkout styles2
+086349a HEAD@{4}: checkout: moving from styles2 to develop
+a4eebb4 HEAD@{5}: rebase (finish): returning to refs/heads/styles2
+a4eebb4 HEAD@{6}: rebase (pick): Змінено стиль в index.html на новий із файлу styles2.css
+b9fcb78 HEAD@{7}: rebase (pick): Доданий файл в папку styles2 - styles2.css
+086349a HEAD@{8}: rebase (start): checkout develop
+c567670 HEAD@{9}: checkout: moving from develop to styles2
+086349a HEAD@{10}: rebase (finish): returning to refs/heads/develop
+086349a HEAD@{11}: rebase (start): checkout images2
+ba8f64d HEAD@{12}: checkout: moving from images2 to develop
+086349a HEAD@{13}: checkout: moving from develop to images2
+ba8f64d HEAD@{14}: checkout: moving from styles2 to develop
+c567670 HEAD@{15}: commit: Змінено стиль в index.html на новий із файлу styles2.css
+7352dad HEAD@{16}: commit: Доданий файл в папку styles2 - styles2.css
+ba8f64d HEAD@{17}: checkout: moving from develop to styles2
+ba8f64d HEAD@{18}: checkout: moving from images2 to develop
+086349a HEAD@{19}: commit: Змінений index.html, а саме фото сторінки на нові з папки images2
+90ac046 HEAD@{20}: commit: Створена папка images2 та додані фото до неї
+ba8f64d HEAD@{21}: checkout: moving from master to images2
+ba8f64d HEAD@{22}: checkout: moving from develop to master
+ba8f64d HEAD@{23}: commit (merge): Вирішення конфлікту 1 з зливанням develop у styles
+572696a HEAD@{24}: checkout: moving from develop to develop
+572696a HEAD@{25}: merge images: Fast-forward
+1977c17 HEAD@{26}: checkout: moving from styles to develop
+0783deb HEAD@{27}: commit: Змінено index.html путем додання стилів до сторінки.
+786307e HEAD@{28}: commit: Загальний коміт 1
+de29150 HEAD@{29}: commit: Доданий стиль в папці styles
+1977c17 HEAD@{30}: checkout: moving from develop to styles
+1977c17 HEAD@{31}: checkout: moving from images to develop
+572696a HEAD@{32}: commit: Додано зміни в файл index.html
+9b758f2 HEAD@{33}: commit: Додано папку 'images' з зображеннями
+1977c17 HEAD@{34}: checkout: moving from develop to images
+1977c17 HEAD@{35}: commit (initial): Додано порожній файл index.html
